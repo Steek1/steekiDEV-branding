@@ -1,7 +1,7 @@
 ==================================================
         STEEKI DEV - LOGO & VIZUELNI IDENTITET
 ==================================================
-
+Copyright (c) 2026 Stefan Kovačević (steekiDEV). All rights reserved.
 Autor: steekiDEV (Ja tj. Stefan Kovacevic)
 Datum kreiranja: 22/10/2026 -> 11 AM CEST.
 Alat za izradu: Canva; PixLr Editor;
