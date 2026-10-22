@@ -1,0 +1,8 @@
+Copyright (c) 2026 Stefan Kovačević (steekiDEV). All rights reserved.
+
+The logo, visual identity, branding assets, images, 
+and graphics contained in this repository are the exclusive property of Stefan Kovačević (steekiDEV).
+
+You are NOT permitted to copy, modify, distribute, publish, sublicense, 
+or use any part of these materials for personal, commercial, 
+or non-commercial purposes without prior written permission from the author.
